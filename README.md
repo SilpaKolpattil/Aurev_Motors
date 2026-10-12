@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VELORA — Car Showroom Website
 
 A responsive React portfolio project for a premium car showroom. Built with React, JavaScript, HTML and CSS (no Tailwind setup required).
@@ -77,3 +78,7 @@ This project was developed git initto demonstrate my skills in building modern, 
 ---
 
 *Disclaimer: Aurev Motors is a portfolio project. Vehicle information and pricing, where displayed, are for demonstration purposes only.*
+=======
+# Aurev_Motors
+Car showroom Project
+>>>>>>> 1d47c7bf95d58e2d9b1804da4a27d4540175501f
